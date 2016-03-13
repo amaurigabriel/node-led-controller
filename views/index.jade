@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  ul.leds
+    //li.led.led2(class=board.pins[2].value == 1? " on" : "off")
+    li.led.led2(class="off")
+        button led2
+        i.fa.fa-lightbulb-o
+    //li.led.led13(class=board.pins[13].value == 1? " on" : "off")        
+    li.led.led2(class="on")      
+        button led13
+        i.fa.fa-lightbulb-o
