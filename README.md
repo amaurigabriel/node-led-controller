@@ -17,4 +17,4 @@ npm start
 
 ## Documentation
 
-Checkhttp://www.amauri.eng.br/en/blog/2016/03/using-node-js-to-control-hardware-over-the-web-with-the-firmata-protocol/ for documentation.
+Check http://www.amauri.eng.br/en/blog/2016/03/using-node-js-to-control-hardware-over-the-web-with-the-firmata-protocol/ for documentation.
